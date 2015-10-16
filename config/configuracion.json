@@ -1,0 +1,7 @@
+<configuracion>
+	<ruta>D:\Películas</ruta>
+	<intervalo>0<intervalo>
+	<compararCon>primero</compararCon>
+	<metodo>shá1</metodo>
+	<verbose>True</verbose>
+</configuracion>

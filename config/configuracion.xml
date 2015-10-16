@@ -1,0 +1,6 @@
+<configuracion>
+	<ruta>D:\DropBox\Material Común</ruta>
+	<intervalo>10</intervalo>
+	<metodo>sha1</metodo>
+	<verbose>False</verbose>
+</configuracion>
